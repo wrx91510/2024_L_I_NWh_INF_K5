@@ -10,3 +10,4 @@ test:
 	PYTHONPATH=. py.test
 
 run:
+	python main.py
